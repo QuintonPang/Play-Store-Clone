@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480032260598",
+    "project_id": "play-store-clone",
+    "storage_bucket": "play-store-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480032260598:android:894b40e109e204717007d7",
+        "android_client_info": {
+          "package_name": "com.QuintonPYX.PlayStoreClone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480032260598-4bdo7bfqoe9ml74clg93ik34e8nmcpau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xe37ikSSrWr4vlS7WbZtA-Cbz2Agk5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480032260598-4bdo7bfqoe9ml74clg93ik34e8nmcpau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
